@@ -1,0 +1,1 @@
+- Commit 1 (add: shadow on sticky header): "Add a subtle shadow (shadow-md) to this already sticky header. Keep all existing classes. HTML and Tailwind utilities only, no JavaScript."
